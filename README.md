@@ -91,16 +91,15 @@ javascript
 
 # Báo cáo chi tiết
 Mục Tiêu Kiểm Thử:
-
 Xác định và xác thực các phản hồi của Random Data API dựa trên các truy vấn khác nhau.
+
 Phạm Vi Kiểm Thử:
-
 Các điểm cuối liên quan đến việc lấy dữ liệu ngẫu nhiên từ API.
-Kết Quả Kiểm Thử:
 
+Kết Quả Kiểm Thử:
 Tất cả các trường hợp kiểm thử được thực hiện và kết quả phù hợp với mong đợi.
 API hoạt động đúng với các yêu cầu hợp lệ và xử lý các lỗi một cách thích hợp khi cung cấp dữ liệu không hợp lệ hoặc khi không có quyền truy cập.
-Khuyến Nghị:
 
+Khuyến Nghị:
 API hoạt động tốt và xử lý các lỗi đúng cách.
 Duy trì tài liệu chi tiết và cung cấp các ví dụ cụ thể để hỗ trợ người dùng API.
